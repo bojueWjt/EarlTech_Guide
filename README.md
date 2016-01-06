@@ -68,7 +68,7 @@ note：讲解的很深入，连前端一起学了。缺点没有thinkphp
 
 ###书籍
 
-![PHP和MySQL Web开发](http://i4.tietuku.com/2af9340b7730eae4.jpg)
+![PHP和MySQL Web开发](http://ec4.images-amazon.com/images/I/51fGa2QtGKL._AC_UL160_SR118,160_.jpg)
 
 PHP和MySQL Web开发
 ***
@@ -86,7 +86,7 @@ PHP和MySQL Web开发
 
 ###书籍
 
-![Head First HTML与CSS、XHTML(中文版)](http://img1.imgtn.bdimg.com/it/u=3734846864,364868939&fm=15&gp=0.jpg)
+![Head First HTML与CSS、XHTML(中文版)](http://i4.tietuku.com/2af9340b7730eae4.jpg)
 
 Head First HTML与CSS、XHTML（中文版）
 ***
