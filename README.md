@@ -36,7 +36,7 @@
 
 ### 图书
 
-![轻量级JavaEE企业应用实战（第四版)](https:)
+![轻量级JavaEE企业应用实战（第四版)](http://bojuewjt.github.io/apply/img/javaEE.jpg)
 
 **轻量级 JavaEE 企业应用实践 （SSH 框架整合）**
 
