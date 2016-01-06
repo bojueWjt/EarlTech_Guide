@@ -68,7 +68,7 @@ note：讲解的很深入，连前端一起学了。缺点没有thinkphp
 
 ###书籍
 
-![PHP和MySQL Web开发](http://ec4.images-amazon.com/images/I/51fGa2QtGKL._AC_UL160_SR118,160_.jpg)
+![PHP和MySQL Web开发](http://i4.tietuku.com/2af9340b7730eae4.jpg)
 
 PHP和MySQL Web开发
 ***
@@ -108,12 +108,19 @@ javascript权威指南(犀牛书)
 ***
 *note:嗯，权威。比上一本还厚。*
 
-![javascript精粹](http://i4.tietuku.com/9f46032e05e40d15.jpg)
+![javascript语言精粹](http://i4.tietuku.com/9f46032e05e40d15.jpg)
 
 javascript语言精粹
 
 ***
 *note:内容比较少，但是好像每句话都好像包含很多知识点（夸张的修辞，别介意）需要一些基础*
+
+![javascript语言与编程实践](http://i4.tietuku.com/9337347287bc5947.jpg)
+
+javascript语言精粹与编程实践
+
+***
+*note:前端大神和项目管理专家，周爱民老师的力作，需要一年以上的编程经验和悟性，别在意放上来装逼的。*
 ### 视频（还是来看视频吧，快速入门）
 
 燕十八javascript（入门）
