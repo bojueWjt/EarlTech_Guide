@@ -70,7 +70,7 @@ PHP和MySQL Web开发
 
 ###书籍
 
-![Head First HTML与CSS、XHTML(中文版)](http://img1.imgtn.bdimg.com/it/u=3734846864,364868939&fm=15&gp=0.jpg)
+![Head First HTML与CSS、XHTML(中文版)](http://bojuewjt.github.io/apply/img/html00.jpg)
 
 Head First HTML与CSS、XHTML（中文版）
 ***
