@@ -99,7 +99,7 @@ javascript语言精粹
 ***
 *note:内容比较少，但是好像每句话都好像包含很多知识点（夸张的修辞，别介意）需要一些基础*
 
-![javascript语言精粹与编程实践](http://bojuewjt.github.io/apply/img/javascript04.jpg)
+![javascript语言精粹与编程实践](http://bojuewjt.github.io/apply/img/javacript04.jpg)
 
 javascript语言精粹与编程实践
 
