@@ -98,6 +98,13 @@ javascript语言精粹
 
 ***
 *note:内容比较少，但是好像每句话都好像包含很多知识点（夸张的修辞，别介意）需要一些基础*
+
+![javascript语言精粹与编程实践](http://bojuewjt.github.io/apply/img/javascript04.jpg)
+
+javascript语言精粹与编程实践
+
+***
+*note:周爱民老师的力作，需要一年以上的编程经验和悟性。放上来装逼的。*
 ### 视频（还是来看视频吧，快速入门）
 
 燕十八javascript（入门）
