@@ -34,6 +34,14 @@
 
 密码：u4xe
 
+### 图书
+
+![轻量级JavaEE企业应用实战（第四版)](https:)
+
+#### 轻量级 JavaEE 企业应用实践 （SSH 框架整合）
+
+
+
 ###java 学习资料整合网站
 java知识分享网<http://www.java1234.com>
 
@@ -118,5 +126,3 @@ javascript语言精粹与编程实践
 尚学堂javascript视频（从入门讲到javascript设计模式，比较专业，初学者比较吃力）
 
 百度网盘：<http://pan.baidu.com/s/1qWGd8YS>
-
-
