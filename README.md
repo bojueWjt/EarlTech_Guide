@@ -42,7 +42,17 @@
 
 密码：mp3i
 
-#### 国产框架jFinal框架学习（黄祥谦特别推荐）
+#### spring MVC
+
+传智播客三大框架的学习视频，外加网上图书商店项目实战
+
+struts2、spring MVC 二选一都学也行
+
+百度云盘：<http://pan.baidu.com/s/1i4b4FHj>
+
+密码：8fbd
+
+#### 国产框架jFinal框架学习（CTO特别推荐）
 
 口号：用上jFinal多出来的工作时间去陪女朋友吧(￣▽￣)~*
 
