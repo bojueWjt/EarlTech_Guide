@@ -53,8 +53,6 @@
 
 作者：李刚 （国内著名高级IT技术作家)
 
-<http://pan.baidu.com/share/link?shareid=1214119798&uk=3594200071&fid=408204612849959>
-
 ***
 *note: 全书对SSH三大框架的解析很全面也很到位。很合适想学习框架的人，最后对三大框*
 
@@ -85,7 +83,6 @@ note：讲解的很深入，连前端一起学了。缺点没有thinkphp
 
 PHP和MySQL Web开发
 
-<http://pan.baidu.com/share/link?shareid=2324338055&uk=875863552&fid=747243513718119>
 ***
 *note:超级适合入门！嫌看视频慢来看书吧！*
 
@@ -104,7 +101,7 @@ PHP和MySQL Web开发
 ![第一行代码 Android](http://i4.tietuku.com/dad62e2a56c35f25.jpg)
 
 **第一行代码Android**
-<http://pan.baidu.com/share/link?shareid=1107515311&uk=4198445918>
+
 
 作者：郭霖 （这可是CSDN上的大神来的，他的博客<http://blog.csdn.net/guolin_blog>
 
@@ -140,7 +137,7 @@ PHP和MySQL Web开发
 
 Head First HTML与CSS、XHTML（中文版）
 
-<http://pan.baidu.com/share/link?shareid=1639308675&uk=2102183244&fid=850863514435980>
+
 ***
 *note:本书规范又系统非常适合入门*
 
@@ -150,7 +147,7 @@ Head First HTML与CSS、XHTML（中文版）
 ![javascript高级程序设计](http://i4.tietuku.com/2517213c591ac72a.jpg)
 
 javascript高级程序设计（红宝书）
-<http://pan.baidu.com/share/link?shareid=3131552585&uk=1379548157&fid=728861466655338>
+
 ***
 *note:非常的详尽，非常的厚，是一定要翻两遍的。*
 
@@ -159,21 +156,21 @@ javascript高级程序设计（红宝书）
 
 javascript权威指南(犀牛书)
 
-<http://pan.baidu.com/share/link?shareid=4122329309&uk=2453108283&fid=945824703443576>
+
 ***
 *note:嗯，权威。比上一本还厚。*
 
 ![javascript语言精粹](http://i4.tietuku.com/9f46032e05e40d15.jpg)
 
 javascript语言精粹
-<http://pan.baidu.com/share/link?shareid=976159017&uk=3414016935&fid=857952685332560>
+
 ***
 *note:内容比较少，但是好像每句话都好像包含很多知识点（夸张的修辞，别介意）需要一些基础*
 
 ![javascript语言与编程实践](http://i4.tietuku.com/9337347287bc5947.jpg)
 
 javascript语言精粹与编程实践
-<http://pan.baidu.com/share/link?shareid=2164811361&uk=842331715&fid=1347336406>
+
 
 ***
 *note:前端大神和项目管理专家，周爱民老师的力作，需要一年以上的编程经验和悟性，别在意放上来装逼的。*
