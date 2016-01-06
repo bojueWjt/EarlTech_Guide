@@ -38,8 +38,16 @@
 
 ![轻量级JavaEE企业应用实战（第四版)](https:)
 
-#### 轻量级 JavaEE 企业应用实践 （SSH 框架整合）
+**轻量级 JavaEE 企业应用实践 （SSH 框架整合）**
 
+作者：李刚 （国内著名高级IT技术作家)
+
+***
+*note: 全书对SSH三大框架的解析很全面也很到位。很合适想学习框架的人，最后对三大框
+
+架进行了一个很好的整合。（注：最好一边看一边实践，光看不练没用的）*
+
+***
 
 
 ###java 学习资料整合网站
@@ -78,7 +86,7 @@ PHP和MySQL Web开发
 
 ###书籍
 
-![Head First HTML与CSS、XHTML(中文版)](http://bojuewjt.github.io/apply/img/html00.jpg)
+![Head First HTML与CSS、XHTML(中文版)](http://img1.imgtn.bdimg.com/it/u=3734846864,364868939&fm=15&gp=0.jpg)
 
 Head First HTML与CSS、XHTML（中文版）
 ***
@@ -87,32 +95,25 @@ Head First HTML与CSS、XHTML（中文版）
 ###javascript（入门）
 ###书籍
 
-![javascript高级程序设计](http://bojuewjt.github.io/apply/img/javascript00.jpg)
+![javascript高级程序设计](http://img1.imgtn.bdimg.com/it/u=2366574637,615760296&fm=21&gp=0.jpg)
 
 javascript高级程序设计（红宝书）
 ***
 *note:非常的详尽，非常的厚，是一定要翻两遍的。*
 
 
-![javascript权威指南](http://bojuewjt.github.io/apply/img/javascript01.jpg)
+![javascript权威指南](http://img2.imgtn.bdimg.com/it/u=3519835322,1009491892&fm=21&gp=0.jpg)
 
 javascript权威指南(犀牛书)
 ***
 *note:嗯，权威。比上一本还厚。*
 
-![javascript精粹](http://bojuewjt.github.io/apply/img/javascript02.jpg)
+![javascript精粹](http://img1.imgtn.bdimg.com/it/u=2417914989,2608730168&fm=15&gp=0.jpg)
 
 javascript语言精粹
 
 ***
 *note:内容比较少，但是好像每句话都好像包含很多知识点（夸张的修辞，别介意）需要一些基础*
-
-![javascript语言精粹与编程实践](http://bojuewjt.github.io/apply/img/javacript04.jpg)
-
-javascript语言精粹与编程实践
-
-***
-*note:周爱民老师的力作，需要一年以上的编程经验和悟性。放上来装逼的。*
 ### 视频（还是来看视频吧，快速入门）
 
 燕十八javascript（入门）
