@@ -21,10 +21,19 @@
 #### javaEE + ssh
 
 创智播客2013 java就业班
+*note:从基础到ssh*
 
 百度云盘：<http://pan.baidu.com/s/1kTTYUPp>
 
 密码：zs1h
+
+#### ssh
+
+传智播客三大框架的学习视频，外加网上图书商店项目实战
+
+百度云盘：<http://pan.baidu.com/s/1mgPTq0g>
+
+密码：mp3i
 
 #### 国产框架jFinal框架学习（黄祥谦特别推荐）
 
