@@ -79,20 +79,20 @@ Head First HTML与CSS、XHTML（中文版）
 ###javascript（入门）
 ###书籍
 
-![javascript高级程序设计](http://img1.imgtn.bdimg.com/it/u=2366574637,615760296&fm=21&gp=0.jpg)
+![javascript高级程序设计](http://bojuewjt.github.io/apply/img/javascript00.jpg)
 
 javascript高级程序设计（红宝书）
 ***
 *note:非常的详尽，非常的厚，是一定要翻两遍的。*
 
 
-![javascript权威指南](http://img2.imgtn.bdimg.com/it/u=3519835322,1009491892&fm=21&gp=0.jpg)
+![javascript权威指南](http://bojuewjt.github.io/apply/img/javascript01.jpg)
 
 javascript权威指南(犀牛书)
 ***
 *note:嗯，权威。比上一本还厚。*
 
-![javascript精粹](http://img1.imgtn.bdimg.com/it/u=2417914989,2608730168&fm=15&gp=0.jpg)
+![javascript精粹](http://bojuewjt.github.io/apply/img/javascript02.jpg)
 
 javascript语言精粹
 
