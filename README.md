@@ -134,7 +134,7 @@ PHP和MySQL Web开发
 
 ### 书籍
 
-![第一行代码 Android](http://i4.tietuku.com/dad62e2a56c35f25.jpg)
+![第一行代码 Android](http://www.ebusinessreview.cn/upload/common/20140718102810_195392.jpg)
 
 **第一行代码Android**
 
@@ -161,12 +161,15 @@ PHP和MySQL Web开发
 ***
 
 #web前端
+###学习路线
+![https://pic1.zhimg.com/f286270f738ac0238c4e03f4eb8049b4_b.jpg)
+
 
 ##html+css(入门)
 
 ###书籍
 
-![Head First HTML与CSS、XHTML(中文版)](http://i4.tietuku.com/2af9340b7730eae4.jpg)
+![Head First HTML与CSS、XHTML(中文版)](http://www.open-open.com/pimage/head-first-html.png)
 
 Head First HTML与CSS、XHTML（中文版）
 
@@ -177,7 +180,7 @@ Head First HTML与CSS、XHTML（中文版）
 ###javascript（入门）
 ###书籍
 
-![javascript高级程序设计](http://i4.tietuku.com/2517213c591ac72a.jpg)
+![javascript高级程序设计](http://a.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=0157d6998d13632701e0ca61f0e6cb89/8d5494eef01f3a293d7d9f8b9e25bc315c607c39.jpg)
 
 javascript高级程序设计（红宝书）
 
@@ -185,7 +188,7 @@ javascript高级程序设计（红宝书）
 *note:非常的详尽，非常的厚，是一定要翻两遍的。*
 
 
-![javascript权威指南](http://i4.tietuku.com/652993ff817c38fb.jpg)
+![javascript权威指南](http://d.hiphotos.baidu.com/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=a07442b0caea15ce55e3e85bd7695196/7e3e6709c93d70cf98888638fbdcd100baa12b90.jpg)
 
 javascript权威指南(犀牛书)
 
@@ -193,14 +196,14 @@ javascript权威指南(犀牛书)
 ***
 *note:嗯，权威。比上一本还厚。*
 
-![javascript语言精粹](http://i4.tietuku.com/9f46032e05e40d15.jpg)
+![javascript语言精粹](http://b.hiphotos.baidu.com/baike/w%3D268/sign=b33904d1d43f8794d3ff4f28ea1a0ead/5bafa40f4bfbfbed8a18d11678f0f736afc31f11.jpg)
 
 javascript语言精粹
 
 ***
 *note:内容比较少，但是好像每句话都好像包含很多知识点（夸张的修辞，别介意）需要一些基础*
 
-![javascript语言与编程实践](http://i4.tietuku.com/9337347287bc5947.jpg)
+![javascript语言与编程实践](http://f.hiphotos.baidu.com/baike/w%3D268/sign=27c23d294bfbfbeddc59317940f1f78e/8601a18b87d6277fe3429e2e28381f30e924fc50.jpg)
 
 javascript语言精粹与编程实践
 
@@ -220,3 +223,20 @@ javascript语言精粹与编程实践
 尚学堂javascript视频（从入门讲到javascript设计模式，比较专业，初学者比较吃力）
 
 百度网盘：<http://pan.baidu.com/s/1qWGd8YS>
+
+慕课网前端学习课程
+
+http://www.imooc.com/course/programdetail/pid/32
+
+***
+
+相关美工学习视频：
+==========
+
+####美工ui
+百度云盘：http://pan.baidu.com/s/1i5JOFyP
+密码：axkd
+
+##UI设计资料
+百度云盘：链接：http://pan.baidu.com/s/1hsqK692 
+密码：l9nk
