@@ -22,9 +22,26 @@
 ***
 后端  JavaWeb
 ========
+###学习路线
+![web后端学习路线](http://www.atguigu.com/kechengpic/kecheng.gif)
+*note:参考尚硅谷官网学习路线*
 
 ###学习视频
 
+#### java入门马士兵视频
+*note:javaSE入门*
+
+百度云盘：<http://pan.baidu.com/s/1mioA0EO>
+密码：nchv
+
+#### javaEE + ssh
+
+创智播客2013 java就业班
+*note:从基础到ssh*
+
+百度云盘：<http://pan.baidu.com/s/1kTTYUPp>
+
+密码：zs1h
 #### javaEE + ssh
 
 创智播客2013 java就业班
@@ -62,7 +79,7 @@ struts2、spring MVC 二选一都学也行
 
 ### 图书
 
-![轻量级JavaEE企业应用实战（第四版)](http://bojuewjt.github.io/apply/img/javaEE.jpg)
+![轻量级JavaEE企业应用实战（第四版)](http://h.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=1ffe9b514c086e066afd374f373857c2/ac6eddc451da81cb9ebc84ad5266d01609243173.jpg)
 
 **轻量级 JavaEE 企业应用实践 （SSH 框架整合）**
 
@@ -111,6 +128,10 @@ PHP和MySQL Web开发
 
 #### Android 基础
 
+###学习路线
+![Android学习路线](http://images.51cto.com/files/uploadimg/20130116/1746450.jpg)
+*note:参考尚硅谷官网学习路线*
+
 ### 书籍
 
 ![第一行代码 Android](http://i4.tietuku.com/dad62e2a56c35f25.jpg)
@@ -128,11 +149,9 @@ PHP和MySQL Web开发
 ***
 
 ### 视频
-
-### 这里我并不打算给
-
-[自食其力]<http://so.baiduyun.me/>
-
+#### 老罗安卓视频教程
+百度云盘：http://pan.baidu.com/s/1mi55xNE
+密码：i1ia
 ***
 *note:切务浮沙筑高台,练从难处练,用从易处用！无速成，唯有坚持！*
 
