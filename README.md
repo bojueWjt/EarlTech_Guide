@@ -134,7 +134,7 @@ PHP和MySQL Web开发
 
 ### 书籍
 
-![第一行代码 Android](http://www.ebusinessreview.cn/upload/common/20140718102810_195392.jpg)
+![第一行代码 Android](https://img3.doubanio.com/lpic/s28351121.jpg)
 
 **第一行代码Android**
 
@@ -162,14 +162,14 @@ PHP和MySQL Web开发
 
 #web前端
 ###学习路线
-![https://pic1.zhimg.com/f286270f738ac0238c4e03f4eb8049b4_b.jpg)
+![web前端学习路线](https://pic1.zhimg.com/f286270f738ac0238c4e03f4eb8049b4_b.jpg)
 
 
 ##html+css(入门)
 
 ###书籍
 
-![Head First HTML与CSS、XHTML(中文版)](http://www.open-open.com/pimage/head-first-html.png)
+![Head First HTML与CSS、XHTML(中文版)](https://img3.doubanio.com/lpic/s3030692.jpg)
 
 Head First HTML与CSS、XHTML（中文版）
 
