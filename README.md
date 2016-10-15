@@ -188,7 +188,7 @@ javascript高级程序设计（红宝书）
 *note:非常的详尽，非常的厚，是一定要翻两遍的。*
 
 
-![javascript权威指南](http://d.hiphotos.baidu.com/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=a07442b0caea15ce55e3e85bd7695196/7e3e6709c93d70cf98888638fbdcd100baa12b90.jpg)
+![javascript权威指南](https://img3.doubanio.com/lpic/s5860151.jpg)
 
 javascript权威指南(犀牛书)
 
