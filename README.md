@@ -257,21 +257,21 @@ http://www.imooc.com/course/programdetail/pid/32
 *java编程思想
 *note:java程序员必备的书籍*
 
-![实战JVM](http://www.kfzimg.com/G03/M01/58/6E/pYYBAFYXTemAOixRAAGk6E1c6pE110_b.jpg)
+![实战JVM](https://img3.doubanio.com/lpic/s28036503.jpg)
 *实战JVM
 *note:java程序员必备的书籍*
 
 
-![TCP/IP详解卷1](http://h.hiphotos.baidu.com/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=2d79ffb409d79123f4ed9c26cc5d32e7/b8389b504fc2d56262cc7f51e21190ef77c66c42.jpg)
+![TCP/IP详解卷1](https://img3.doubanio.com/lpic/s1543906.jpg)
 *TCP/IP详解卷1
 
 
 
-![TCP/IP详解卷2](http://a.hiphotos.baidu.com/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=f2cd5b168ad4b31ce4319ce9e6bf4c1a/622762d0f703918f18cc7d9f503d269759eec442.jpg)
+![TCP/IP详解卷2](https://img1.doubanio.com/lpic/s1662989.jpg)
 *TCP/IP详解卷2
 
 
-![TCP/IP详解卷3](http://e.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=c2d46eb0ac6eddc432eabca958b2dd98/730e0cf3d7ca7bcbc666877abf096b63f624a842.jpg)
+![TCP/IP详解卷3](https://img3.doubanio.com/lpic/s1613455.jpg)
 *TCP/IP详解卷3
 
 *note:面试法宝..对TCP/IP协议非常详细的讲解，企业面试笔试会有所涉及*
