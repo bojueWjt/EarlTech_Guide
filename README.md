@@ -22,7 +22,7 @@
 ***
 后端  JavaWeb
 ========
-###学习路线
+### 学习路线
 ![web后端学习路线](http://www.atguigu.com/kechengpic/kecheng.gif)
 *note:参考尚硅谷官网学习路线*
 
@@ -93,7 +93,7 @@ struts2、spring MVC 二选一都学也行
 ***
 
 
-###java 学习资料整合网站
+### java 学习资料整合网站
 java知识分享网<http://www.java1234.com>
 
 
@@ -160,7 +160,7 @@ PHP和MySQL Web开发
 
 ***
 
-#web前端
+# web前端
 ### 学习路线
 ![web前端学习路线](https://pic1.zhimg.com/f286270f738ac0238c4e03f4eb8049b4_b.jpg)
 
