@@ -1,7 +1,7 @@
 # EarlTech_Guide
 伯爵科技三端学习资料整合及其指引
 
-######图示还是建议大家去购买正版书，网上的图书资源质量堪忧，影响阅读心情，意志力也是一种资源用完就没了，请大家舍得投资自己。(当然伯爵科技藏书丰富你懂的)
+###### 图示还是建议大家去购买正版书，网上的图书资源质量堪忧，影响阅读心情，意志力也是一种资源用完就没了，请大家舍得投资自己。(当然伯爵科技藏书丰富你懂的)
 
 >
 请大家本着适合自己的才是最好的原则，以下都是我们的一些经验总结，希望对你们有帮助
@@ -26,7 +26,7 @@
 ![web后端学习路线](http://www.atguigu.com/kechengpic/kecheng.gif)
 *note:参考尚硅谷官网学习路线*
 
-###学习视频
+### 学习视频
 
 #### java入门马士兵视频
 *note:javaSE入门*
@@ -101,7 +101,7 @@ java知识分享网<http://www.java1234.com>
 
 后端   PHP
 ==========
-###学习视频资源
+### 学习视频资源
 #### PHP基础
 布尔教育燕十八老师php视频
 
@@ -109,7 +109,7 @@ java知识分享网<http://www.java1234.com>
 
 note：讲解的很深入，连前端一起学了。缺点没有thinkphp
 
-###书籍
+### 书籍
 
 ![PHP和MySQL Web开发](http://ec4.images-amazon.com/images/I/51fGa2QtGKL._AC_UL160_SR118,160_.jpg)
 
@@ -128,7 +128,7 @@ PHP和MySQL Web开发
 
 #### Android 基础
 
-###学习路线
+### 学习路线
 ![Android学习路线](http://images.51cto.com/files/uploadimg/20130116/1746450.jpg)
 *note:参考尚硅谷官网学习路线*
 
@@ -161,13 +161,13 @@ PHP和MySQL Web开发
 ***
 
 #web前端
-###学习路线
+### 学习路线
 ![web前端学习路线](https://pic1.zhimg.com/f286270f738ac0238c4e03f4eb8049b4_b.jpg)
 
 
-##html+css(入门)
+## html+css(入门)
 
-###书籍
+### 书籍
 
 ![Head First HTML与CSS、XHTML(中文版)](https://img3.doubanio.com/lpic/s3030692.jpg)
 
@@ -177,8 +177,8 @@ Head First HTML与CSS、XHTML（中文版）
 ***
 *note:本书规范又系统非常适合入门*
 
-###javascript（入门）
-###书籍
+### javascript（入门）
+### 书籍
 
 ![javascript高级程序设计](http://a.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=0157d6998d13632701e0ca61f0e6cb89/8d5494eef01f3a293d7d9f8b9e25bc315c607c39.jpg)
 
@@ -233,11 +233,11 @@ http://www.imooc.com/course/programdetail/pid/32
 相关美工学习视频：
 ==========
 
-####美工ui
+#### 美工ui
 百度云盘：http://pan.baidu.com/s/1i5JOFyP
 密码：axkd
 
-##UI设计资料
+## UI设计资料
 百度云盘：链接：http://pan.baidu.com/s/1hsqK692 
 密码：l9nk
 
